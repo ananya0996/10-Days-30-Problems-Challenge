@@ -18,3 +18,11 @@
 |  743  | Network Delay Time                  |   Medium   |
 |  1247 | Minimum Swaps to Make Strings Equal |   Medium   |
 |  765  | Couples Holding Hands               |    Hard    |
+
+### Day 3
+
+|   #   | Problem Title                       | Difficulty |
+| ----- | ----------------------------------- | ---------- |
+|  1219 | Path with Maximum Gold              |   Medium   |
+|  1791 | Find Center of Star Graph           |   Medium   |
+|  1402 | Reducing Dishes                     |    Hard    |
