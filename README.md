@@ -26,3 +26,11 @@
 |  1219 | Path with Maximum Gold              |   Medium   |
 |  1791 | Find Center of Star Graph           |   Medium   |
 |  1402 | Reducing Dishes                     |    Hard    |
+
+### Day 4
+
+|   #   | Problem Title                       | Difficulty |
+| ----- | ----------------------------------- | ---------- |
+|  797  | All Paths From Source to Target     |   Medium   |
+|  1387 | Sort Integers by The Power Value    |   Medium   |
+|  996  | Number of Squareful Arrays          |    Hard    |
