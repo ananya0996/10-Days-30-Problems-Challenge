@@ -34,3 +34,11 @@
 |  797  | All Paths From Source to Target     |   Medium   |
 |  1387 | Sort Integers by The Power Value    |   Medium   |
 |  996  | Number of Squareful Arrays          |    Hard    |
+
+### Day 5
+
+|   #   | Problem Title                       | Difficulty |
+| ----- | ----------------------------------- | ---------- |
+|  45   | Jump Game II                        |   Medium   |
+|  133  | Clone Graph                         |   Medium   |
+|  1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons |    Hard    |
