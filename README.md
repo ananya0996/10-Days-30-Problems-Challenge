@@ -50,3 +50,11 @@
 |  109  | Convert Sorted List to Binary Search Tree |   Medium   |
 |  658  | Find K Closest Elements             |   Medium   |
 |  980  | Unique Paths III                    |    Hard    |
+
+### Day 7
+
+|   #   | Problem Title                       | Difficulty |
+| ----- | ----------------------------------- | ---------- |
+|  151  | Reverse Words in a String           |   Medium   |
+|  583  | Delete Operation for Two Strings    |   Medium   |
+|  1409 | Queries on a Permutation With Key   |   Medium   |
