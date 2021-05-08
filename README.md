@@ -58,3 +58,11 @@
 |  151  | Reverse Words in a String           |   Medium   |
 |  583  | Delete Operation for Two Strings    |   Medium   |
 |  1409 | Queries on a Permutation With Key   |   Medium   |
+
+### Day 8
+
+|   #   | Problem Title                       | Difficulty |
+| ----- | ----------------------------------- | ---------- |
+|  146  | LRU Cache                           |   Medium   |
+|  1008 | Construct Binary Search Tree from Preorder Traversal |   Medium   |
+|  906  | Super Palindromes                   |   Hard   |
