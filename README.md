@@ -66,3 +66,11 @@
 |  146  | LRU Cache                           |   Medium   |
 |  1008 | Construct Binary Search Tree from Preorder Traversal |   Medium   |
 |  906  | Super Palindromes                   |   Hard   |
+
+### Day 9
+
+|   #   | Problem Title                       | Difficulty |
+| ----- | ----------------------------------- | ---------- |
+|  767  | Reorganize String                   |   Medium   |
+|  1833 | Maximum Ice Cream Bars              |   Medium   |
+|  1354 | Construct Target Array With Multiple Sums |   Hard   |
