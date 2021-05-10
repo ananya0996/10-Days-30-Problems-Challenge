@@ -74,3 +74,11 @@
 |  767  | Reorganize String                   |   Medium   |
 |  1833 | Maximum Ice Cream Bars              |   Medium   |
 |  1354 | Construct Target Array With Multiple Sums |   Hard   |
+
+### Day 10
+
+|   #   | Problem Title                       | Difficulty |
+| ----- | ----------------------------------- | ---------- |
+|  791  | Custom Sort String                  |   Medium   |
+|  901  | Online Stock Span                   |   Medium   |
+|  1298 | Maximum Candies You Can Get from Boxes |   Hard   |
